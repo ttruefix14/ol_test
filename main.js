@@ -9,26 +9,28 @@ const layers = [
     source: new OSM(),
   }),
   new LayerGroup({
-    new TileLayer({
-      extent: [4397126, 5454955, 4433964, 5499907],
-      source: new TileWMS({
-        url: 'http://10.10.5.50:8080/geoserver/ows?service=WMS&version=1.3.0',
-        params: {'LAYERS': 'ne:fz_view', 'TILED': true},
-        serverType: 'geoserver',
-        // Countries have transparency, so do not fade tiles:
-        transition: 0,
+    layers: [
+      new TileLayer({
+        extent: [4397126, 5454955, 4433964, 5499907],
+        source: new TileWMS({
+          url: 'http://10.10.5.50:8080/geoserver/ows?service=WMS&version=1.3.0',
+          params: {'LAYERS': 'ne:fz_view', 'TILED': true},
+          serverType: 'geoserver',
+          // Countries have transparency, so do not fade tiles:
+          transition: 0,
+        }),
       }),
-    }),
-    new TileLayer({
-      extent: [4397126, 5454955, 4433964, 5499907],
-      source: new TileWMS({
-        url: 'http://10.10.5.50:8080/geoserver/ows?service=WMS&version=1.3.0',
-        params: {'LAYERS': 'ne:np_view', 'TILED': true},
-        serverType: 'geoserver',
-        // Countries have transparency, so do not fade tiles:
-        transition: 0,
+      new TileLayer({
+        extent: [4397126, 5454955, 4433964, 5499907],
+        source: new TileWMS({
+          url: 'http://10.10.5.50:8080/geoserver/ows?service=WMS&version=1.3.0',
+          params: {'LAYERS': 'ne:np_view', 'TILED': true},
+          serverType: 'geoserver',
+          // Countries have transparency, so do not fade tiles:
+          transition: 0,
+        }),
       }),
-    }),
+    ],
   }),
 ];
 const map = new Map({
