@@ -36,4 +36,10 @@ const map = new Map({
     center: [4410000, 5470000],
     zoom: 11,
   }),
+function layersOnOff(toggle){
+    var LayerList = map.layers;
+    for(var a = 0; a < LayerList.length; a++ ){
+        LayerList[a].visibility = toggle;
+    };
+};
 });
