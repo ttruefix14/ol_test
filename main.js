@@ -5,7 +5,7 @@ import TileWMS from 'ol/source/TileWMS.js';
 import View from 'ol/View.js';
 
 const layers = [
-  /*new TileLayer({
+  /**new TileLayer({
     source: new OSM(),
   }),*/
   new TileLayer({
