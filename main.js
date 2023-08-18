@@ -71,3 +71,25 @@ $('#layertree li > span')
   })
   .siblings('fieldset')
   .hide();
+
+  // Initial legend
+const resolution = map.getView().getResolution();
+var n = 0;
+map.getAllLayers().forEach(function(layer){
+  if (n == 0) {
+    n++;
+  } else {
+  const graphicUrl = layer.getSource().getLegendUrl(resolution);
+  const img = document.getElementById('legend' + n++);
+  img.src = graphicUrl};
+});
+
+/*for (var layer in map.getAllLayers()) {
+  updateLegend(layer, resolution, n++);
+};
+
+ Update the legend when the resolution changes
+map.getView().on('change:resolution', function (event) {
+  const resolution = event.target.getResolution();
+  updateLegend(resolution);
+});*/
