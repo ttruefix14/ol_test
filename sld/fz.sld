@@ -363,6 +363,77 @@
           </sld:LineSymbolizer>
         </sld:Rule>
         <sld:Rule>
+          <sld:Name>Rule69</sld:Name>
+          <sld:Title>Зона смешанной и общественно-деловой застройки (существующие)</sld:Title>
+          <ogc:Filter>
+            <ogc:And>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>classid_v</ogc:PropertyName>
+                <ogc:Literal>Зона смешанной и общественно-деловой застройки</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>status_v</ogc:PropertyName>
+                <ogc:Literal>Существующий</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              </ogc:And>
+          </ogc:Filter>
+          <sld:PolygonSymbolizer>
+            <sld:Fill>
+              <sld:CssParameter name="fill">#C2007B</sld:CssParameter>
+            </sld:Fill>
+          </sld:PolygonSymbolizer>
+          <sld:LineSymbolizer>
+            <sld:Stroke>
+              <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+            </sld:Stroke>
+            <sld:PerpendicularOffset>0</sld:PerpendicularOffset>
+          </sld:LineSymbolizer>
+        </sld:Rule>
+        <sld:Rule>
+          <sld:Name>Rule70</sld:Name>
+          <sld:Title>Зона смешанной и общественно-деловой застройки (планируемые)</sld:Title>
+          <ogc:Filter>
+            <ogc:And>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>classid_v</ogc:PropertyName>
+                <ogc:Literal>Зона смешанной и общественно-деловой застройки</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>status_v</ogc:PropertyName>
+                <ogc:Literal>Планируемый</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
+              </ogc:And>
+          </ogc:Filter>
+          <sld:PolygonSymbolizer>
+            <sld:Fill>
+              <sld:CssParameter name="fill">#C2007B</sld:CssParameter>
+            </sld:Fill>
+          </sld:PolygonSymbolizer>
+          <sld:PolygonSymbolizer>
+            <sld:Fill>
+              <sld:GraphicFill>
+                <sld:Graphic>
+                  <sld:Mark>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
+                    <sld:Stroke>
+                      <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
+                    </sld:Stroke>
+                  </sld:Mark>
+                </sld:Graphic>
+              </sld:GraphicFill>
+            </sld:Fill>
+          </sld:PolygonSymbolizer>
+          <sld:LineSymbolizer>
+            <sld:Stroke>
+              <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">1</sld:CssParameter>
+            </sld:Stroke>
+            <sld:PerpendicularOffset>0</sld:PerpendicularOffset>
+          </sld:LineSymbolizer>
+        </sld:Rule>
+        <sld:Rule>
           <sld:Name>Rule11</sld:Name>
           <sld:Title>Общественно-деловые зоны (существующие) </sld:Title>
           <ogc:Filter>
@@ -2436,77 +2507,6 @@
           <sld:PolygonSymbolizer>
             <sld:Fill>
               <sld:CssParameter name="fill">#8CEDBA</sld:CssParameter>
-            </sld:Fill>
-          </sld:PolygonSymbolizer>
-          <sld:PolygonSymbolizer>
-            <sld:Fill>
-              <sld:GraphicFill>
-                <sld:Graphic>
-                  <sld:Mark>
-                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
-                    <sld:Stroke>
-                      <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
-                    </sld:Stroke>
-                  </sld:Mark>
-                </sld:Graphic>
-              </sld:GraphicFill>
-            </sld:Fill>
-          </sld:PolygonSymbolizer>
-          <sld:LineSymbolizer>
-            <sld:Stroke>
-              <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-            </sld:Stroke>
-            <sld:PerpendicularOffset>0</sld:PerpendicularOffset>
-          </sld:LineSymbolizer>
-        </sld:Rule>
-        <sld:Rule>
-          <sld:Name>Rule69</sld:Name>
-          <sld:Title>Зона смешанной и общественно-деловой застройки (существующие)</sld:Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>classid_v</ogc:PropertyName>
-                <ogc:Literal>Зона смешанной и общественно-деловой застройки</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>status_v</ogc:PropertyName>
-                <ogc:Literal>Существующий</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
-              </ogc:And>
-          </ogc:Filter>
-          <sld:PolygonSymbolizer>
-            <sld:Fill>
-              <sld:CssParameter name="fill">#C2007B</sld:CssParameter>
-            </sld:Fill>
-          </sld:PolygonSymbolizer>
-          <sld:LineSymbolizer>
-            <sld:Stroke>
-              <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">1</sld:CssParameter>
-            </sld:Stroke>
-            <sld:PerpendicularOffset>0</sld:PerpendicularOffset>
-          </sld:LineSymbolizer>
-        </sld:Rule>
-        <sld:Rule>
-          <sld:Name>Rule70</sld:Name>
-          <sld:Title>Зона смешанной и общественно-деловой застройки (планируемые)</sld:Title>
-          <ogc:Filter>
-            <ogc:And>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>classid_v</ogc:PropertyName>
-                <ogc:Literal>Зона смешанной и общественно-деловой застройки</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>status_v</ogc:PropertyName>
-                <ogc:Literal>Планируемый</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
-              </ogc:And>
-          </ogc:Filter>
-          <sld:PolygonSymbolizer>
-            <sld:Fill>
-              <sld:CssParameter name="fill">#C2007B</sld:CssParameter>
             </sld:Fill>
           </sld:PolygonSymbolizer>
           <sld:PolygonSymbolizer>
