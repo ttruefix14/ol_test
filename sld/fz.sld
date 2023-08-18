@@ -60,9 +60,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -130,9 +131,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -200,9 +202,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -270,9 +273,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -340,9 +344,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -410,9 +415,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -480,9 +486,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -550,9 +557,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -620,9 +628,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -690,9 +699,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -760,9 +770,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -830,9 +841,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -900,9 +912,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -970,9 +983,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1040,9 +1054,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1110,9 +1125,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1180,9 +1196,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1250,9 +1267,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1320,9 +1338,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1390,9 +1409,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1460,9 +1480,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1530,9 +1551,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1600,9 +1622,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1670,9 +1693,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1740,9 +1764,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1810,9 +1835,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1880,9 +1906,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -1950,9 +1977,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2040,9 +2068,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2130,9 +2159,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2200,9 +2230,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2270,9 +2301,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2340,9 +2372,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2410,9 +2443,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
@@ -2480,9 +2514,10 @@
               <sld:GraphicFill>
                 <sld:Graphic>
                   <sld:Mark>
-                    <sld:WellKnownName>slash</sld:WellKnownName>
+                    <sld:WellKnownName>shape://slash</sld:WellKnownName>
                     <sld:Stroke>
                       <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                      <sld:CssParameter name="stroke-width">1.0</sld:CssParameter>
                     </sld:Stroke>
                   </sld:Mark>
                 </sld:Graphic>
